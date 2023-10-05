@@ -1,0 +1,45 @@
+body {
+  background-color: #616a6b;
+}
+
+.navContainer {
+  background-color: #17202a;
+  overflow: hidden;
+}
+
+.logo {
+  width: 55px;
+  height: 50px;
+}
+
+.navLink:hover {
+  background-color: #839192;
+  color: pink;
+}
+
+.navContainer a {
+  float: right;
+  display: block;
+  color: #f4d03f;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+  font: 30px;
+}
+
+.intro {
+  text-align: center;
+  color: white;
+}
+
+.body {
+  text-align: center;
+  margin-right: 150px;
+  margin-left: 150px;
+  color: white;
+}
+
+.progress {
+  text-align: center;
+  color: white;
+}
