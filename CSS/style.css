@@ -39,6 +39,14 @@ body {
   color: white;
 }
 
+.racing {
+  display: inline-block;
+  text-align: center;
+  background-color: pink;
+  padding: 5px;
+  border-radius: 25%;
+}
+
 .progress {
   text-align: center;
   color: white;
